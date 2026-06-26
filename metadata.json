@@ -1,0 +1,6 @@
+{
+  "name": "screen Recorder",
+  "description": "Offline screen recorder with office productivity and presentation tools including audio recording, floating control menu, drawing brush overlay, and facecam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
